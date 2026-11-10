@@ -157,7 +157,7 @@
       </div>
 
       <div class="cb-app-container">
-        <iframe src="http://localhost:3001/analytics/dashboard"></iframe>
+        <iframe src="http://localhost:3000/"></iframe>
       </div>
     `;
 
