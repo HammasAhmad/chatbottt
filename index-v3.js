@@ -108,7 +108,7 @@
 
       @media (max-width: 480px) {
         .cb-window {
-          width: calc(100vw - 20px);
+          width: 100%;
           height: 70vh;
           right: 10px;
           bottom: 85px;
